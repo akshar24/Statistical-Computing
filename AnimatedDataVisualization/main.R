@@ -71,7 +71,7 @@ for(year in years){
   }
 }
 
-animation <- image_animate(pic.bundle, fps = 1.25)
+animation <- image_animate(pic.bundle, fps = 2)
 print(animation)
 
 
